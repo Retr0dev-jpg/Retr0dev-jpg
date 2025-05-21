@@ -5,6 +5,8 @@
 
 ---
 
+<div align="center">
+
 <table>
   <tr>
     <td>
@@ -27,10 +29,7 @@
 - [Email](mailto:marco_simone@svago.online)
 
     </td>
-  </tr>
-</table>
-
----
+    <td>
 
 ### 🛠️ Skillset
 
@@ -38,6 +37,12 @@
 - 🎨 I design **modern** and **clean** UIs, component-based  
 - 🧪 Surgical debugging. If it crashes, I **don’t sleep**  
 - 🧬 REST API integration → **plug & play** mindset
+
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
